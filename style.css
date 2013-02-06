@@ -1,0 +1,12 @@
+/TugasWorksop /web / public / stylesheets / style.css
+
+body 
+    {
+       padding: 50px;
+       font: 14px "Andalus", Consolas, Arial, sans-serif;
+     }
+
+a 
+   {
+       color: #00B7FF;
+   }
