@@ -1,0 +1,10 @@
+/TugasWorkshop/ web / views / jus.jade
+extends layout
+
+block content
+  h1= title
+	p #{title}
+
+	each jus in listOfJus
+		p #{jus.name}
+
